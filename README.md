@@ -20,7 +20,7 @@ npm run dev
 ```
 ```npm run dev``` will run the Vue frontend
 
-## Run backend server
+## Run LoopbackJS server
 ```
 cd backend
 npm start
