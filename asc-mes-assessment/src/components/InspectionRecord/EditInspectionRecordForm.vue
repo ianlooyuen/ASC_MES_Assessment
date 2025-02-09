@@ -64,7 +64,7 @@ onMounted(fetchInspectionRecords);
                 <input v-model="inspectionRecord.inspection_result" type="text" id="inspection-result" name="inspection-result" class="border bg-pink-100 rounded-lg pt-1 pb-1 pl-2 pr-2">
             </div>
             <div class="flex justify-center mt-6 p-2">
-                <button type="submit" class="bg-purple-700 hover:bg-pink-500 text-purple-100 rounded-lg p-2">Submit</button>
+                <button type="submit" class="bg-purple-700 hover:bg-pink-500 text-purple-100 rounded-lg p-2 w-full">Submit</button>
             </div>
         </form>
     </div>
