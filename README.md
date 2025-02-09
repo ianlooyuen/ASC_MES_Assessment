@@ -5,6 +5,13 @@ Manufacturing Execution System modules for a company assessment.
 ```
 git clone https://github.com/ianlooyuen/ASC_MES_Assessment.git
 ```
+## Installations
+Install Vue, Loopback, and TailwindCSS if needed.
+```
+npm install -g @vue/cli
+npm install tailwindcss @tailwindcss/vite
+npm install -g loopback-cli
+```
 
 ## Run Vue project
 ```
